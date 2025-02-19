@@ -8,7 +8,7 @@ ever for your app to be able to adapt between these two different size classes, 
 modes the `TabView` can be in.
 
 ## Demo Video
-[Watch me run through the issues](Demo.mov)
+![Watch me run through the issues](https://github.com/copia-wealth-studios/swiftui-tabview-sample/blob/main/Demo.mov)
 
 ## Documented Issues
 
