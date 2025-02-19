@@ -7,10 +7,6 @@ These use cases do not seem extraordinary. Especially since stage manager launch
 ever for your app to be able to adapt between these two different size classes, and therefore two different
 modes the `TabView` can be in.
 
-## Demo Video
-
-https://github.com/user-attachments/assets/52ca08e3-a4e7-4f61-b2bc-d8ba91652570
-
 ## Documented Issues
 
 ### [Basic TabView Issues](TabViewSample/Samples/TabViewBasic.swift)
@@ -35,3 +31,7 @@ https://github.com/user-attachments/assets/52ca08e3-a4e7-4f61-b2bc-d8ba91652570
 - Enable Stage Manager under Settings -> Multitasking & Gestures
 - Navigate to `ContentView.swift` as a starting point
 - Uncomment one example at a time. Jump to the specific implementation for documented reproduction steps.
+
+## Demo Video
+
+https://github.com/user-attachments/assets/52ca08e3-a4e7-4f61-b2bc-d8ba91652570
